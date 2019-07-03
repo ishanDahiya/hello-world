@@ -1,3 +1,6 @@
 # hello-world
 A new repository 
-My name is Ishan I am in the Systems analyst Program 
+Ishan Dahiya
+991485199
+dahiayi
+Davis Campus for SYST24444 Exercise 3
